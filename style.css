@@ -1,5 +1,5 @@
 .container {
-width: 500px;   /* This sets the width */
+width: 900px;   /* This sets the width */
 margin: 0 auto; /* This automatically sets left/right margins */
 text-align: center;
 background-color:#f9f8eb;
@@ -39,7 +39,7 @@ a:hover {
 background-color: gold;
 }
 a:visited {
-color: #844;
+color: #155e63;
 }
 ul {
 list-style: none;
