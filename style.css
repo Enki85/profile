@@ -15,6 +15,9 @@ box-shadow: 2px 4px 10px #eae7e7;
 width: 200px;
 border-radius: 150px;
 }
+.list_inline {display: flex;
+  justify-content: space-around;
+}
 body {
 font-family: 'Poor Story', cursive;
 font-weight: 300;
