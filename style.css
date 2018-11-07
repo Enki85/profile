@@ -1,5 +1,5 @@
 .container {
-width: 800px;   /* This sets the width */
+width: 500px;   /* This sets the width */
 margin: 0 auto; /* This automatically sets left/right margins */
 text-align: center;
 background-color:#f9f8eb;
@@ -36,27 +36,10 @@ a:hover {
 background-color: gold;
 }
 a:visited {
-  text-decoration: none;
+color: #844;
 }
 ul {
 list-style: none;
-}
-.btn {
-      background-color: #76b39d;
-    color: white;
-    font-weight: 500;
-    padding: 10px;
-    border-radius: 4px;
-}
-.list-inline > li {
-display: inline-block;
-padding: 0px 20px;
-text-align: center;
-}
-.list-inline {
-  padding-left: 0px;
-}
-
 }
 @media (max-width: 960px) {
 /* For a screen < 960px, this CSS will be read */
